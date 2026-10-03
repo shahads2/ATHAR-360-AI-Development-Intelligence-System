@@ -6,11 +6,11 @@ ATHAR 360 is an AI-powered development intelligence system designed to shift dev
 Instead of waiting for entrepreneurs to submit financing requests, ATHAR 360 continuously scans market, demand, supply, and geospatial data to surface hidden, underserved economic opportunities before applications emerge. By combining AI, geospatial intelligence, and Digital Twin simulations, the platform enables data-driven decisions that align resource allocation with Saudi Vision 2030 goals. 
 
 ## ⚙️ How ATHAR 360 Works (5-Step Engine)
-1- Connect Signals (Data): Aggregates economic activity, consumer demand, business supply, and geospatial distribution.   
-2- Detect Gaps (Detect): Identifies underserved sectors where regional demand outpaces financed supply.   
-3- Shape Solutions (Build): Formulates structured, viable business concepts tailored to specific regions (e.g., AlUla, NEOM, Qassim).   
-4- Match SDB Support (Recommend): Connects identified opportunities directly with SDB financing tiers and support programs.   
-5- Simulate Impact (Simulate): Uses Digital Twin modeling to project socio-economic returns before execution.  
+- Connect Signals (Data): Aggregates economic activity, consumer demand, business supply, and geospatial distribution.   
+- Detect Gaps (Detect): Identifies underserved sectors where regional demand outpaces financed supply.   
+- Shape Solutions (Build): Formulates structured, viable business concepts tailored to specific regions (e.g., AlUla, NEOM, Qassim).   
+- Match SDB Support (Recommend): Connects identified opportunities directly with SDB financing tiers and support programs.   
+- Simulate Impact (Simulate): Uses Digital Twin modeling to project socio-economic returns before execution.  
 
 ## 🎯 Strategic Value & Vision 2030 Impact 
 - For Social Development Bank (SDB): Provides earlier opportunity visibility and optimizes capital allocation toward sustainable, high-impact regional initiatives.   
